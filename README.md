@@ -1,7 +1,4 @@
-Below is a **clean, copy-paste-ready README.md** written as you would find in a **professional Spring Boot / design-patterns repository**.
-
-No fluff. Clear structure. Clear intent.
-Both patterns are explained **with code**, **when to use**, **when not to**, and **why they are necessary**.
+All patterns are explained **with code**, **when to use**, **when not to**, and **why they are necessary**.
 
 ---
 
