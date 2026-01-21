@@ -7,7 +7,6 @@ import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Component;
 
 @RequiredArgsConstructor
-@Component("EmailFactory")
 public class EmailNotificationFactory implements NotificationFactory {
 
     private final EmailNotificationSender emailNotificationSender;

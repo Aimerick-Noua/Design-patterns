@@ -7,7 +7,6 @@ import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Component;
 
 @RequiredArgsConstructor
-@Component("InAppFactory")
 public class InAppNotificationFactory implements NotificationFactory {
 
     private final InAppNotificationSender inAppNotificationSender;
